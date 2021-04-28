@@ -1,5 +1,5 @@
 # Overview - how to setup a spark environment in Docker
-### Can be used on Windows to build small Spark Jobs
+### Super easy set-up on Windows using Docker to run small PySpark Jobs locally withouth having to deal with setting up spark on your computer manually
 
 # Setup
 1. Download Docker Desktop
