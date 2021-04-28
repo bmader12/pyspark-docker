@@ -1,5 +1,5 @@
 # Overview - how to setup a spark environment in Docker
-# Can be used on Windows to build small Spark Jobs
+### Can be used on Windows to build small Spark Jobs
 
 # Setup
 1. Download Docker Desktop
