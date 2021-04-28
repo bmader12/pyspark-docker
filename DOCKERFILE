@@ -1,5 +1,6 @@
 # syntax=docker/dockerfile:1
 FROM jupyter/pyspark-notebook
-COPY pyspark.ipynb pyspark.ipynb
-COPY FL_insurance_sample.csv FL_insurance_sample.csv
+#Copies all files from current directory
+COPY . . 
+
 
