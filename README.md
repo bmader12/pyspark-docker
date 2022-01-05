@@ -3,7 +3,7 @@
 
 # Setup
 1. Download Docker Desktop
-2. Run in cmd line:  docker-compose up
+2. Navigate to folder and run in cmd line:  docker-compose up
 3. Open http://localhost:8888/ in any browser
 4. Import token - can be found in Docker Logs
 5. PySpark is set up and ready to go
